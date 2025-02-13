@@ -1,4 +1,6 @@
-# NoVa Restaurant Bot
+# INACTIVE: NoVa Restaurant Bot
+ As of February 9, 2023, Twitter no longer supports free access to their API. 
+ 
  Source for https://twitter.com/NoVa_Rests_Bot. 
  
  Inspired by https://twitter.com/_restaurant_bot, which is on an international scale.
